@@ -1,0 +1,41 @@
+
+body{
+    background-color:bisque;
+    border-style: double;
+    color: black;
+    margin:auto;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2, h3{
+    text-align: center;
+    color: cyan; font-size: 20px;
+    background-color:grey;
+    width: 600px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+
+}
+img{
+    border-radius: 5cqmax;
+}
+p{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+   
+  }
+  h4{
+    text-decoration: double;
+    color:violet;
+    background-color:cadetblue;
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+
+  }
